@@ -176,4 +176,3 @@ namespace Lab8.Green
         }
     }
 }
-}
