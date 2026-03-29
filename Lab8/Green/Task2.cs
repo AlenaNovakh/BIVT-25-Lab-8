@@ -41,7 +41,12 @@ namespace Lab8.Green
                     return copy;
                 }
             }
-            
+            //public Student(string name, string surname)
+//{
+//    _name = name;
+//    _surname = surname;
+//    _marks = new int[4];
+//}
             public double AverageMark
             {
                 get
